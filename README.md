@@ -1,4 +1,4 @@
-![Conversor de Monedas Global](https://i.imgur.com/7VadtQr.png)
+![Conversor de Monedas Global](https://i.imgur.com/y1FyA4b.png)
 # Conversor de Monedas Global 
 
 **App web en tiempo real** para convertir entre más de 19 monedas con:
